@@ -2,7 +2,7 @@ lockfileVersion: 5.3
 
 specifiers:
   '@laufire/resist': ^0.0.4
-  '@laufire/utils': ^2.7.0
+  '@laufire/utils': ^2.9.0
   '@testing-library/jest-dom': ^5.14.1
   '@testing-library/react': ^11.2.7
   '@testing-library/user-event': ^12.8.3
@@ -16,7 +16,7 @@ specifiers:
 
 dependencies:
   '@laufire/resist': 0.0.4
-  '@laufire/utils': 2.7.0
+  '@laufire/utils': 2.9.0
   '@testing-library/jest-dom': 5.14.1
   '@testing-library/react': 11.2.7_react-dom@17.0.2+react@17.0.2
   '@testing-library/user-event': 12.8.3
@@ -1787,11 +1787,11 @@ packages:
     resolution: {integrity: sha512-nral5Lf1wM+Bio7DUKxg+tBMfdHDGTOiBDuvAAf5P6kE6dX5mPzMGFhqH76s9K7xZHYcUV/fYoI3ims6P0mhOw==}
     engines: {node: '>=7.6'}
     dependencies:
-      '@laufire/utils': 2.7.0
+      '@laufire/utils': 2.9.0
     dev: false
 
-  /@laufire/utils/2.7.0:
-    resolution: {integrity: sha512-QPyqsB9mVZT9UFfNX7gO+to71RIrchV6oJC7kpBYxlTC/Oe8ZsK/F/mXn6lMmGvw0cOBsY8a9CwyXCecqwLAWg==}
+  /@laufire/utils/2.9.0:
+    resolution: {integrity: sha512-0WWfCz/LgcHIIbY6sSnNEPl9noBIhbS8RrpgDxd/0DllNN+jg6AzxD94JbDVQxLDf43ColINtJQMAOBlb1tSEg==}
     dependencies:
       '@babel/runtime': 7.14.6
     optionalDependencies:
